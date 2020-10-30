@@ -20,22 +20,22 @@ button {
     margin: 5px;
 }
 
-.hide-button {
+.hideButton {
     background-color: #fee975;
 }
 
-.show-button {
+.showButton {
     background-color: #ffaa7b;
 }
 
-.message-button {
+.msgButton {
     background-color: #00ffcc;
 }
 
-.update-img-button {
+.updateButton {
     background-color: #e4afee;
 }
 
-.name-button {
+.nameButton {
     background-color: #17d3ff;
 }
